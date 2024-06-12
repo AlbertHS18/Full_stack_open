@@ -15,7 +15,7 @@ entre los objetos. DOM es un modelo lógico que puede implementarse de cualquier
 representación en forma de árbol de un documento. También utilizamos el termino "árbol" cuando refiriendose al arreglo de aquellos artículos de información que pueden ser alcanzados utilizando 
 métodos "exploració por árbol"; (esto no incluye atributos).
 
-Nodos del DOM:
+## Nodos del DOM:
 
 - Elementos: Representan las etiquetas HTML, como div, p, span, etc. Los elementos pueden contener otros elementos, texto u otros tipos de nodos.
 - Texto: Representa el contenido textual dentro de un elemento.
