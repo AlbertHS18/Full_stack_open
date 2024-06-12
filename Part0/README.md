@@ -36,25 +36,25 @@ de aplicaciones web. Con una buena comprensión de la DOM-API, puedes realizar u
 
 - Acceder a Elementos del DOM.
 
-Puedes acceder a elementos del DOM utilizando varios métodos del objeto document.
+* Puedes acceder a elementos del DOM utilizando varios métodos del objeto document.
 
 - Manipular Contenido de Elementos.
 
-Una vez que has accedido a un elemento, puedes modificar su contenido.
+* Una vez que has accedido a un elemento, puedes modificar su contenido.
 
 - Modificar Atributos de Elementos.
 
-Puedes cambiar o establecer atributos de elementos HTML.
+* Puedes cambiar o establecer atributos de elementos HTML.
 
 - Modificar Estilos de Elementos.
 
-Puedes cambiar los estilos CSS de un elemento directamente.
+* Puedes cambiar los estilos CSS de un elemento directamente.
 
 - Agregar y Eliminar Clases.
 
-La manipulación de clases es esencial para cambiar estilos y comportamientos.
+* La manipulación de clases es esencial para cambiar estilos y comportamientos.
 
 - Escuchar y Manejar Eventos.
 
-Puedes agregar controladores de eventos a elementos para hacer la página interactiva.
+* Puedes agregar controladores de eventos a elementos para hacer la página interactiva.
 
