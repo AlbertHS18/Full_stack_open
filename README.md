@@ -10,24 +10,26 @@ El curso Full Stack Open es un programa educativo completo ofrecido por el Depar
 
 * Parte 1: Introducción a React
 
-* Parte 2: Comunicando con el servidor
+* Parte 2: Comunicándose con el servidor
 
-* Parte 3: Programación del lado del servidor con Node.js y Express
+* Parte 3: Programando un servidor con NodeJS y Express
 
-* Parte 4: Estructura de la aplicación y pruebas de Backend
+* Parte 4: Probando servidores Express, administración de usuarios
 
-* Parte 5: Testing de aplicaciones web
+* Parte 5: Probando aplicaciones React
 
-* Parte 6: Estado de la aplicación con Redux
+* Parte 6: Gestión avanzada del estado
 
-* Parte 7: React Router, Hooks y más
+* Parte 7: React router, custom hooks, estilando la aplicación con CSS y webpack
 
 * Parte 8: GraphQL
 
 * Parte 9: TypeScript
 
-* Parte 10: Gestión de usuario y autenticación
+* Parte 10: React Native
 
-* Parte 11: Introducción a DevOps
+* Parte 11: CI/CD 
 
-* Parte 12: Contenidos opcionales
+* Parte 12: Contenedores
+
+* Parte 13: Utilizando bases de datos relacionales
